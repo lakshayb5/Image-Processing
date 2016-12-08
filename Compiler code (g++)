@@ -1,0 +1,2 @@
+g++ file.cpp -o file `pkg-config --cflags --libs opencv
+./file
