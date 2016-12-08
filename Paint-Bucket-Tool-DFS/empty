@@ -1,2 +1,0 @@
-The Paint Bucket tool uses depth field search for colouring the selected region.
-It works using OpenCV.
